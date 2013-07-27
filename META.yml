@@ -3,10 +3,10 @@ abstract: 'convert a url into a html embed string'
 author:
   - 'n0body <n0body@thisaintnews.com>'
 build_requires:
-  ExtUtils::MakeMaker: 6.36
+  ExtUtils::MakeMaker: 6.59
   Test::More: 0
 configure_requires:
-  ExtUtils::MakeMaker: 6.36
+  ExtUtils::MakeMaker: 6.59
 distribution_type: module
 dynamic_config: 1
 generated_by: 'Module::Install version 1.06'
@@ -28,6 +28,8 @@ requires:
   URI: 0
   URI::Escape::XS: 0
   URI::QueryParam: 0
+  perl: 5.8.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.015000
+  repository: https://github.com/n0body-/html-video-embed.git
+version: 0.015001
