@@ -8,7 +8,7 @@ use URI::Escape::XS;
 use Data::Validate::URI qw/is_web_uri/;
 use Module::Find;
 
-our $VERSION = '0.015001';
+our $VERSION = '0.015002';
 $VERSION = eval $VERSION;
 
 has 'class' => (
@@ -130,7 +130,7 @@ returns html on success, or undef if not supported
 
 =head1 SUPPORT
 
-Bugs should always be submitted via the CPAN bug tracker
+Please submit bugs through L<https://github.com/n0body-/html-video-embed/issues>
 
 For other issues, contact the maintainer
 
