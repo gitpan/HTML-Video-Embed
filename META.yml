@@ -1,7 +1,7 @@
 ---
 abstract: 'convert a url into a html embed string'
 author:
-  - 'n0body <n0body@thisaintnews.com>'
+  - 'Mark Ellis <markellis@cpan.org>'
 build_requires:
   ExtUtils::MakeMaker: 6.59
   Test::More: 0
@@ -30,7 +30,7 @@ requires:
   URI::QueryParam: 0
   perl: 5.8.0
 resources:
-  bugtracker: https://github.com/n0body-/html-video-embed/issues
+  bugtracker: https://github.com/markwellis/html-video-embed/issues
   license: http://dev.perl.org/licenses/
-  repository: https://github.com/n0body-/html-video-embed.git
-version: 0.015002
+  repository: https://github.com/markwellis/html-video-embed.git
+version: 0.015003
