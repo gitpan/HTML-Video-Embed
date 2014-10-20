@@ -17,11 +17,9 @@ lib/HTML/Video/Embed/Site/Collegehumor.pm
 lib/HTML/Video/Embed/Site/DailyMotion.pm
 lib/HTML/Video/Embed/Site/EbaumsWorld.pm
 lib/HTML/Video/Embed/Site/FunnyOrDie.pm
-lib/HTML/Video/Embed/Site/Kontraband.pm
 lib/HTML/Video/Embed/Site/LiveLeak.pm
 lib/HTML/Video/Embed/Site/MetaCafe.pm
 lib/HTML/Video/Embed/Site/Vimeo.pm
-lib/HTML/Video/Embed/Site/YahooScreen.pm
 lib/HTML/Video/Embed/Site/Youtu_be.pm
 lib/HTML/Video/Embed/Site/Youtube.pm
 Makefile.PL
@@ -33,10 +31,8 @@ t/collegehumor.t
 t/dailymotion.t
 t/ebaumsworld.t
 t/funnyordie.t
-t/kontraband.t
 t/liveleak.t
 t/metacafe.t
 t/vimeo.t
-t/yahoo-screen.t
 t/youtu.be.t
 t/youtube.t

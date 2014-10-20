@@ -9,7 +9,7 @@ configure_requires:
   ExtUtils::MakeMaker: 6.59
 distribution_type: module
 dynamic_config: 1
-generated_by: 'Module::Install version 1.06'
+generated_by: 'Module::Install version 1.12'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -33,4 +33,4 @@ resources:
   bugtracker: https://github.com/markwellis/html-video-embed/issues
   license: http://dev.perl.org/licenses/
   repository: https://github.com/markwellis/html-video-embed.git
-version: 0.015003
+version: '0.016000'
